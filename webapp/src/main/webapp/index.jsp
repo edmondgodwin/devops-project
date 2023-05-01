@@ -68,7 +68,7 @@ Course :
 <option value="SysAdmin">SysAdmin</option>  
 <option value="Coding">Coding</option>  
 <option value="Data_Analysis">Data_Analysis</option>  
-<option value="MCA">MCA</option>  
+<option value="WIN10">WIN10</option>  
 <option value="M.Tech">M.Tech</option>  
 </select>  
 </div>  
