@@ -4,7 +4,6 @@ variable "instances" {
     jenkins = "jenkins"
     docker  = "docker"
     tomcat  = "tomcat"
-    ansible = "ansible"
   }
 }
 
